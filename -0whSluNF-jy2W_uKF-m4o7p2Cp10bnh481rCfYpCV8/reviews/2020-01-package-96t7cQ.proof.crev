@@ -1,0 +1,23 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-23T00:23:52.568063195+01:00"
+from:
+  id-type: crev
+  id: "-0whSluNF-jy2W_uKF-m4o7p2Cp10bnh481rCfYpCV8"
+  url: "https://github.com/tillarnold/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: pretty_env_logger
+  version: 0.3.1
+  digest: BwVR7r-glZJ90iO2ERwq0lZX-u0sNFp3abpau-tkR4g
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  This crate is a simple wrapper around env_logger. I did a quick review and found no malicious or suspicious code.
+----- SIGN CREV PROOF -----
+sFri-ZE9Lb4ecowSHkiwTp4YdcbUgoYX-MdX0hHnmWQp2RXKY-pbZvWpYH69abgHooemW5TcoBybtIzZORv_BA
+----- END CREV PROOF -----
+
