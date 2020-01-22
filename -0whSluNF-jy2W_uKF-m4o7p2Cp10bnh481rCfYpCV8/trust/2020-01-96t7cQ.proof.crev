@@ -15,3 +15,20 @@ trust: medium
 AYTQSBJNsJz0cn_NWGyXbC1Lq3YAKpKPi71kkNu864JHzezo1SGK0ezCs5iU5jNehNOx9xrFfR15EVT5YyQbDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-01-23T00:09:50.437416532+01:00"
+from:
+  id-type: crev
+  id: "-0whSluNF-jy2W_uKF-m4o7p2Cp10bnh481rCfYpCV8"
+  url: "https://github.com/tillarnold/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+FueUW80EN7nwDz0WQO-KO60qPshyov_jEKm2YNmtCXiFGbkP_4PxVfZSlbFKKS1JCF8vkvob2y1MDbNSIJvrBQ
+----- END CREV PROOF -----
+
