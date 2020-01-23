@@ -21,3 +21,27 @@ comment: |-
 sFri-ZE9Lb4ecowSHkiwTp4YdcbUgoYX-MdX0hHnmWQp2RXKY-pbZvWpYH69abgHooemW5TcoBybtIzZORv_BA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-23T17:09:59.685363826+01:00"
+from:
+  id-type: crev
+  id: "-0whSluNF-jy2W_uKF-m4o7p2Cp10bnh481rCfYpCV8"
+  url: "https://github.com/tillarnold/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: unicode-xid
+  version: 0.2.0
+  revision: 4baae9fffb156ba229665b972a9cd5991787ceb7
+  digest: SJ8HWxYhXSgqQvjlkE6_nbzp3BZEltf8tv9L8Uw22Z8
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  This crate basically just does a binary search on a big list to determine if a char is in the eponymous unicode range. I did a quick review and found no malicious or suspicious code.
+----- SIGN CREV PROOF -----
+Qd64LDFayYe_HyeGjKvZYBzwNV9BO5Uj4wMh1rI6uONOE4PzUSZdZ2Aa1SKJi3VoA5PHi2ORHGN8dMMU0PaFBA
+----- END CREV PROOF -----
+
