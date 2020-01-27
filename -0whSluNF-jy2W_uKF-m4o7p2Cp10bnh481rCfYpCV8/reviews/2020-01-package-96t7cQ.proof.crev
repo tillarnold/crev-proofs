@@ -45,3 +45,27 @@ comment: |-
 Qd64LDFayYe_HyeGjKvZYBzwNV9BO5Uj4wMh1rI6uONOE4PzUSZdZ2Aa1SKJi3VoA5PHi2ORHGN8dMMU0PaFBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-27T22:05:52.785097830+01:00"
+from:
+  id-type: crev
+  id: "-0whSluNF-jy2W_uKF-m4o7p2Cp10bnh481rCfYpCV8"
+  url: "https://github.com/tillarnold/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: unicode-width
+  version: 0.1.7
+  revision: 3033826f8bf05e82724140a981d5941e48fce393
+  digest: gdxc2n3pY_wLoZFuEYSNBmuQrQx8GppULUTw59hUfPY
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  This crate basically just does a binary search on a big list to determine the width of unicode strings. I did a quick review and found no malicious or suspicious code.
+----- SIGN CREV PROOF -----
+Dj1MtEXfF2tFQ8G0xN8unBfylUJcfToNc20izv5fHIypKO6shlCqYDTps9g7lLYDBpw6q4kPhg-2P3uV0KFNAA
+----- END CREV PROOF -----
+
